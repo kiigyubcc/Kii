@@ -37,4 +37,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
     AddButton(Tab1o, {
      Name = "world zero",
     Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kiigyubcc/World-zero/refs/heads/main/World%20zero"))()
+end
+})
 	  
