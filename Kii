@@ -37,6 +37,4 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
     AddButton(Tab1o, {
      Name = "world zero",
     Callback = function()
-	  loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/fda523d8de77cd09a853c1459bc43952.lua'))()
-end
-})
+	  
